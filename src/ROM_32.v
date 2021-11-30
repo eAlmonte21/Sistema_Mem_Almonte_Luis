@@ -1,6 +1,6 @@
 /*
 * Description
-*	Module ROM.
+*	Module_ROM.
 * Author:
 *	Ing. Luis Eduardo Almonte De Luna
 * Date:
