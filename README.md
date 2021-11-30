@@ -1,2 +1,3 @@
-# Sistema_Mem_Almonte_Luis
-Memory System_Verilog
+#Memory System_Verilog
+
+##Created by Luis Almonte #29/11/2021
