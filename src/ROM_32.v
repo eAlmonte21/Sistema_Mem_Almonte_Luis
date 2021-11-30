@@ -1,3 +1,11 @@
+/*
+* Description
+*	Module ROM.
+* Author:
+*	Ing. Luis Eduardo Almonte De Luna
+* Date:
+*	28/11/2021
+*/
 module ROM_32 
 #(
 		parameter MEMORY_DEPTH = 64,
