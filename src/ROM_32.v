@@ -23,7 +23,7 @@ module ROM_32
 
 	initial
 	begin
-		$readmemh("C:/Users/Fam. Almonte de Luna/Documents/Eduardo/PROJECTS/Arquitectura_Computadoras/Memory_System/src/text.dat", ROM);
+		$readmemh("text.dat", ROM);
 	end
 
 	always @ (Address_i)
