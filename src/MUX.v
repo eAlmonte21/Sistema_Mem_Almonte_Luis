@@ -1,3 +1,11 @@
+/*
+* Description
+*	MUX 2 to 1.
+* Author:
+*	Ing. Luis Eduardo Almonte De Luna
+* Date:
+*	28/11/2021
+*/
 module MUX
 #(
 	parameter DATA_WIDTH = 32
