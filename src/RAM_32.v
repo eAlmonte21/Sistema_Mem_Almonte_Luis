@@ -1,4 +1,11 @@
-
+/*
+* Description
+*	RAM Module.
+* Author:
+*	Ing. Luis Eduardo Almonte De Luna
+* Date:
+*	28/11/2021
+*/
 module RAM_32
 #(	
 	parameter MEMORY_DEPTH = 64,
